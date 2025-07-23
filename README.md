@@ -1,5 +1,4 @@
 # sb-task
-assignment from smart-bricks 
 This project serves a trained meta-learner model using FastAPI. The model is trained with PyTorch and exposed via an API to make predictions.
 The data used for this model is prediction from base models. Here we used randomForest, XGboost and svr.
 The data preprocessing and feature engineering is performed before getting the prediction from base model.
